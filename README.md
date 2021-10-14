@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahith0100
 - 👀 I’m interested in machine learning projects
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on projects that help to deal with social issues using simple technical solutions.
+- 💞️ I’m looking to collaborate on projects that help to deal with social issues using smart technical solutions.
 - 📫 How to reach me ... sahith0100@gmail.com
 
 
